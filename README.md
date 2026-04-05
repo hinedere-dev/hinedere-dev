@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=2563eb" />
+  <img src="https://komarev.com/ghpvc/?username=hinedere-dev&style=for-the-badge&color=2563eb" />
 </p>
 
 </div>
